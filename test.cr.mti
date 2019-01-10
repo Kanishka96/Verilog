@@ -1,0 +1,64 @@
+{E:/ModelSim/New folder (2)/or.v} {1 {vlog -work work -stats=none {E:/ModelSim/New folder (2)/or.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module or2_1bit
+-- Compiling module or2_32bit
+
+Top level modules:
+	or2_1bit
+	or2_32bit
+
+} {} {}} {E:/ModelSim/New folder (2)/xor.v} {1 {vlog -work work -stats=none {E:/ModelSim/New folder (2)/xor.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module xor2_1bit
+-- Compiling module xor2_32bit
+
+Top level modules:
+	xor2_1bit
+	xor2_32bit
+
+} {} {}} {E:/ModelSim/New folder (2)/and.v} {1 {vlog -work work -stats=none {E:/ModelSim/New folder (2)/and.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module and2_1bit
+-- Compiling module and2_32bit
+
+Top level modules:
+	and2_1bit
+	and2_32bit
+
+} {} {}} {E:/ModelSim/New folder (2)/tcounter.v} {1 {vlog -work work -stats=none {E:/ModelSim/New folder (2)/tcounter.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module test_counter
+
+Top level modules:
+	test_counter
+
+} {} {}} {E:/ModelSim/New folder (2)/counter.v} {1 {vlog -work work -stats=none {E:/ModelSim/New folder (2)/counter.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} {{E:/ModelSim/New folder (2)/tcounter.v}} {1 {vlog -work work {E:/ModelSim/New folder (2)/tcounter.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 21:04:35 on Jan 09,2019
+vlog -reportprogress 300 -work work E:/ModelSim/New folder (2)/tcounter.v 
+-- Compiling module test_counter
+
+Top level modules:
+	test_counter
+End time: 21:04:35 on Jan 09,2019, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {{E:/ModelSim/New folder (2)/counter.v}} {1 {vlog -work work {E:/ModelSim/New folder (2)/counter.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 21:04:34 on Jan 09,2019
+vlog -reportprogress 300 -work work E:/ModelSim/New folder (2)/counter.v 
+-- Compiling module counter
+
+Top level modules:
+	counter
+End time: 21:04:35 on Jan 09,2019, Elapsed time: 0:00:01
+Errors: 0, Warnings: 0
+
+} {} {}}
